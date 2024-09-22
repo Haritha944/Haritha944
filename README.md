@@ -1,4 +1,10 @@
-
+<p align="center">
+  <img 
+    src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" 
+    alt="MasterHead" 
+    style="width: 100%; max-width: 100%;" 
+  />
+</p>
 Hi 👋 My name is HARITHA M S
 ============================
 
