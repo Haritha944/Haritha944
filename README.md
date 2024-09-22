@@ -5,7 +5,7 @@
     style="width: 100%; max-width: 100%;" 
   />
 </p>
-Hi 👋 My name is HARITHA M S
+Hi 👋 My name is HARITHA M S <br/>
 ============================
 
 A passionate Full Stack Developer
