@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" 
+    src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gifhttps://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" 
     alt="MasterHead" 
     style="width: 100%; max-width: 100%;" 
   />
