@@ -13,7 +13,7 @@ A passionate Full Stack Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [harithams23@gmail.com](mailto:harithams23@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Langgraph
 * ⚡  Thriving on multitasking
 
 ### Skills
